@@ -1,0 +1,16 @@
+{
+  "name": "f1-ai",
+  "version": "1.0.0",
+  "dependencies": {
+    "@datastax/astra-db-ts": "^1.4.1",
+    "@langchain/core": "^0.3.58",
+    "langchain": "^0.3.0",
+    "openai": "^4.0.0"
+  },
+  "devDependencies": {
+    "@types/aws-lambda": "^8.10.140",
+    "@types/node": "^20.0.0",
+    "typescript": "^5.0.0",
+    "esbuild": "^0.20.0"
+  }
+}
